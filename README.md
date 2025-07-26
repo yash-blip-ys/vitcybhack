@@ -4,6 +4,9 @@ A modern, secure, and tamper-proof file upload and verification platform using E
 
 ---
 
+<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/974fb38b-b237-4cdf-ba31-7d266c7d9d4d" />
+
+
 ## 🚀 Features
 - **Decentralized File Registry:** Store file hashes on Ethereum for immutability
 - **IPFS Integration:** Decentralized file storage (via Infura IPFS)
@@ -13,6 +16,8 @@ A modern, secure, and tamper-proof file upload and verification platform using E
 - **Secure Access:** Access keys and SHA-256 hashing
 
 ---
+<img width="1914" height="1066" alt="image" src="https://github.com/user-attachments/assets/4042319a-bd80-450d-b16f-3137088ee285" />
+
 
 ## 🏗️ Project Structure
 - `smart_contract/` — Solidity contract & Hardhat deployment
