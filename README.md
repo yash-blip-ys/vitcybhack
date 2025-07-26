@@ -23,6 +23,10 @@ A modern, secure, and tamper-proof file upload and verification platform using E
 - `smart_contract/` — Solidity contract & Hardhat deployment
 - `backend/` — Node.js/Express API, MongoDB, IPFS, contract integration
 - `frontend/` — React UI (modern, responsive)
+<img width="1919" height="720" alt="image" src="https://github.com/user-attachments/assets/80f9983c-fec3-4558-83b2-6e4d828457a6" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0af2f0be-4264-49ac-b730-10301c66af9c" />
 
 ---
 
